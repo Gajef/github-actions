@@ -12,7 +12,7 @@ Para construir el JAR del proyecto (y lanzar los test):
 
 ## Lanzar la aplicación en local (en local)
 
-Para lanzar la aplicación el local!:
+Para lanzar la aplicación el local:
 
 ```
     java -jar target/items-0.0.1-SNAPSHOT.jar 
